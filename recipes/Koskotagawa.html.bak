@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Odin-recipe</title>
+  </head>
+  <body>
+    <h1>Koskotagawa</h1>
+	<img src="images/food3.jpg" alt="food image">
+    <p>. Nullam sagittis. Suspendisse pulvinar, augue ac venenatis condimentum, 
+	     sem libero volutpat nibh, nec pellentesque velit pede quis nunc. Vestibulum 
+		 ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+		 Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum
+		 mollis diam. Pellentesque ut neque. Pellentesque habitant morbi tristique senectus
+		 et netus et malesuada fames ac turpis egestas. In dui magna, posuere eget, 
+		 vestibulum et, tempor auctor,
+		 Phasellus magna. In hac habitasse platea dictumst. Curabitur at lacus 
+	</p>
+	<h2>Ingredient</h2>
+	 <ul>
+	   <li>Chiken thigh</li>
+	   <li>oil</li>
+	   <li>floor</li>
+	   <li>Vegetables</li>
+	   <li>Salt</li>
+	  </ul>
+    <h2>Methods and Preparation</h2>
+		<ol>
+			<li>Put a pot of oil on the fire and allow it to boil for about 5 minuts</li>
+			<li>While the the oil on fire, cut your ingredients into a preferable sizes </li>
+			<li>Faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. 
+				Donec sodales sagittis magna. Sed </li>
+			<li>Primis in faucibus orci luctus et ultrices posuere cubilia Curae; 
+				In ac dui quis mi consectetuer lacinia.</li>
+			<li>Pretium libero. Cras id dui. Aenean ut eros et nisl sagittis vestibulum.</li>
+			<li>Phasellus a est. Phasellus magna. In hac habitasse platea dictumst.
+				Curabitur at lacus ac velit ornare lobortis.</li>
+		</ol>
+
+  </body>
+
+
+</html>

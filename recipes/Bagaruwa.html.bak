@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Odin-recipe</title>
+  </head>
+  <body>
+    <h1>Bagaruwa</h1>
+	<img src="images/food.jpg" alt="food image">
+    <p>dolor sit amet, consectetuer adipiscing elit. 
+	   Aenean commodo ligula eget dolor., pretium quis, sem. Nulla consequat massa
+	   quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, 
+	   arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam 
+	   dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus 
+	   elementum semper nisi. Aenean vulputate eleifend tellus. 
+	</p>
+	<h2>Ingredient</h2>
+	 <ul>
+	   <li>Makaroni</li>
+	   <li>pepper</li>
+	   <li>Tomatoes</li>
+	   <li>Caned beef</li>
+	   <li>Salt</li>
+	 </ul>
+
+  </body>
+
+
+</html>
